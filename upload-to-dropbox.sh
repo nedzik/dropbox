@@ -1,6 +1,5 @@
 #!/usr/bin/env bash 
 
-export WORKON_HOME=~/Envs
 . /usr/local/bin/virtualenvwrapper.sh
 
 base_dir=$(dirname $0)
