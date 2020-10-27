@@ -1,6 +1,6 @@
 backports.shutil-get-terminal-size==1.0.0
 cffi==1.7.0
-cryptography==1.4
+cryptography==3.2
 decorator==4.0.9
 dropbox==6.2
 enum34==1.1.6
